@@ -1,1 +1,1 @@
-# IBM_SkillsBuild
+# IBM SkillsBuild
